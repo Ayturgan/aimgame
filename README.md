@@ -1,1 +1,1 @@
-# aimgame
+# https://ayturgan.github.io/aimgame/
